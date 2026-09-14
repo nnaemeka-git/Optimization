@@ -1,0 +1,33 @@
+ENTERPRISE FLEET OPTIMIZATION SOLUTION
+
+OPTIMAL ANNUAL COST:$6,002,350.00
+TOTAL ANNUAL PURCHASE COST : 12,999,000.00
+
+PURCHASE DECISIONS
+
+CAR TYPE|CITY|PURCHASED AMOUNT
+Economy|Dallas|80.0
+Economy|Houston|30.0
+Economy|Austin|30.0
+Midsize|Dallas|40.0
+Midsize|Houston|60.0
+Midsize|Austin|20.0
+SUV|Dallas|50.0
+SUV|Houston|60.0
+SUV|Austin|6.0
+Minivan|Dallas|20.0
+Minivan|Houston|13.0
+
+LEASE DECISIONS
+CAR TYPE|CITY|LEASED AMOUNT
+Economy|Dallas|10.0
+Midsize|Dallas|10.0
+SUV|Austin|24.0
+Luxury|Dallas|15.0
+Luxury|Houston|10.0
+Luxury|Austin|5.0
+Minivan|Houston|7.0
+
+TRANSFER DECISIONS
+CAR TYPE|CITY|TRANFERRED AMOUNT
+Minivan-->Austin|5.0
