@@ -1,0 +1,25 @@
+
+PRE-OPTIMIZED MIDSIZE VEHICLE ALLOCATION
+--------------------------------------
+Dallas : 32 vehicles
+
+Houston : 43 vehicles
+
+Austin : 15 vehicles
+
+Pre-optimization expected net contribution : $18737.7
+
+OPTIMAL MIDSIZE VEHICLE ALLOCATION
+----------------------------------
+Dallas : 39 vehicles
+
+Houston : 43 vehicles
+
+Austin : 8 vehicles
+
+Vehicles remaining in reserve: 150
+
+Expected net contribution: $18846.2
+
+Dollar improvement : $108.5
+Percentage improvement : 0.58%
